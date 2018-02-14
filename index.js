@@ -24,4 +24,4 @@ function destructivelyRemoveFirstKitten(){
   return kittens
 }
 
-function 
+function )
